@@ -779,6 +779,7 @@ $(document).ready(function () {
         arrows: false,
         dots: false,
         pauseOnHover: false,
+        pauseOnFocus: false,
         responsive: [{
             breakpoint: 880,
             settings: {
